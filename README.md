@@ -58,13 +58,6 @@ An intelligent **Sanrio character image classification system** using **Convolut
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmayel&layout=compact&theme=rose_pine" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=annmayel&theme=rose&row=1" />
-</p>
 
 ---
 
