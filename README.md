@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=Hi%20I'm%20Estrella%20🌸&fontSize=40&fontColor=ffffff" />
 </p>
 
-# 👋 Hello, I'm **Estrella (J‑Ann Mayel S.)**
+# 👋 Hello, I'm **J-Ann Mayel S. Estrella**
 
 🎓 **BSIT Student**  
 🤖 **Machine Learning & Mobile App Enthusiast**  
